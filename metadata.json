@@ -1,0 +1,6 @@
+{
+  "name": "Gestion Interventions",
+  "description": "Application complète de gestion des interventions pour chefs de projet, heads et inspecteurs avec relances automatiques et notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
